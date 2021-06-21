@@ -37,6 +37,7 @@ table{/*table線條粗度 ... */
 	border-style:dashed double none;
 	border-collapse: separate;
 	width:100%;
+	background_color:#FFFCEC;
 }
 img{/*圖片大小 */
 	width:35%;

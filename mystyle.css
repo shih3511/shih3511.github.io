@@ -1,0 +1,43 @@
+body{/* 顏色 設定 */
+	background-color:#ECF5FF;
+}
+h1{ /*中文字型 顏色 大小設定 */
+	font-family:Arial Black;
+	font-size:72px;
+	color:#00AEAE	;
+}
+h4{/* 顏色 設定 */
+	color:#003E3E	;
+}
+ul{/* 背景顏色 設定 不要有。 */
+	list-style-type:none;
+	margin : 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #D1E9E9	;
+}
+li {/*中文字型大小 置左設定 */
+	font-size:24px;
+	float:    left;
+}
+li a, .dropbtn{/*字型大小 顏色 置中設定 */
+	display:   inline-block;
+	color:     #003060	;
+	text-align:center;
+	padding:   10px 11px;  
+	text-decoration:none;
+}
+li a:hover, .dropdown:hover .dropbtn{
+	/*滑鼠只到後背景 顏色 變化 */
+	background-color:#C7C7E2;
+}
+
+table{/*table線條粗度 ... */
+	border:5px solid #99cccc;
+	border-style:dashed double none;
+	border-collapse: separate;
+	width:100%;
+}
+img{/*圖片大小 */
+	width:35%;
+}
